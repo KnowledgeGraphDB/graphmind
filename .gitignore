@@ -5,11 +5,10 @@ dist/
 *.db-journal
 .DS_Store
 *.tgz
-.env
-.env.*
 .graphmindrc.json
 .omc/
 *.node
 .fastembed_cache/
 *.key
 *.pem
+config.bat
